@@ -55,7 +55,7 @@ Sunday                   66 commits          █░░░░░░░░░░�
 ## 🧠 My Language Usage (WakaTime)
 <a href="https://wakatime.com/@CatherineZM">
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?shareid=018df785-897f-45ba-b9a4-4ae9f6045b57&display_format=percent&langs_count=8&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=CatherineZM&display_format=percent&langs_count=8"
     alt="WakaTime Languages (percent only)" />
 </a>
 
