@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">A passionate (and special) full-stack developer located in Toronto, Canada</h3>
+<p align="center">My current main focus is frontend development but I would love to explore backend as well! I have interests in UI/UX and AI products.</p>
 
 <p align="center">
   <a href="https://github.com/CatherineZM">
@@ -15,7 +16,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **a freelance sweet shop website and new design for my portfolio**
-- 🌱 I’m learning **UX Design** from OCAD
+- 🌱 I’m learning **UX Design** from OCAD (Pursuing a Digital Media Cerfitifcate)
 - 👯 I’m open to collaborate on **front-end projects** or **fun projects in general**
 - ⚡ Fun fact: *I have snakes and love cats but terrified of birds*
 
