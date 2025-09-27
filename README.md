@@ -1,7 +1,15 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">A passionate (and special) full-stack developer located in Toronto, Canada</h3>
-<p align="center">My current main focus is frontend development but I would love to explore backend as well! I have interests in UI/UX and AI products.</p>
+<p align='center'>💻 Full-Stack Developer | JavaScript, TypeScript, Next.js, Azure, Stripe, TailwindCSS, Headless CMS</p>
+---
+<p align="left">I’m a full-stack developer with a strong technical foundation — and a fun personality to match. I build modern web apps that are fast, scalable, and thoughtfully designed, using tools like Next.js, TailwindCSS, Stripe, Azure, and headless CMS platforms. But what truly sets me apart isn’t just my code — it’s how I communicate.
+
+I believe great development starts with great conversations. I’m the kind of developer who asks the right questions, listens deeply, and brings clarity to complex problems. Whether I’m collaborating with designers, chatting with clients, or mapping out backend logic, I keep the process smooth, transparent, and — dare I say, even enjoyable.
+
+Beyond work, I’m always curious. I explore everything from creative hobbies like painting and crocheting to connecting with people from different paths of life. I thrive on understanding different perspectives, which helps me build products that actually resonate with users — not just checking technical boxes.
+
+To summarize: I write clean code, build great apps, and communicate like a real human. Let’s build something brilliant or just casual chat — and have a good time doing it.</p>
 
 <p align="center">
   <a href="https://github.com/CatherineZM">
