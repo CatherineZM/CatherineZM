@@ -33,8 +33,29 @@ I believe great development starts with great conversations. I’m the kind of d
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 23/05/2026 05:43:04 UTC
+```text
+🌞 Morning                285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+🌆 Daytime                1058 commits        ████████████░░░░░░░░░░░░░   49.93 % 
+🌃 Evening                560 commits         ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+🌙 Night                  216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   332 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Tuesday                  484 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Wednesday                407 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Thursday                 352 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Friday                   410 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Saturday                 76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+```
+
+
+
+ Last Updated on 24/05/2026 06:06:49 UTC
 <!--END_SECTION:waka-->
 
 ---
