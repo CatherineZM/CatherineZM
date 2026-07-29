@@ -31,10 +31,39 @@ I believe great development starts with great conversations. I’m the kind of d
 
 ## 📈 Coding Metrics (auto-updated daily)
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 28/07/2026 05:18:50 UTC
+```text
+🌞 Morning                282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+🌆 Daytime                1015 commits        ████████████░░░░░░░░░░░░░   49.32 % 
+🌃 Evening                555 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+🌙 Night                  206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Tuesday                  456 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Wednesday                372 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Thursday                 361 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   383 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Saturday                 76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Sunday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 29/07/2026 05:26:02 UTC
 <!--END_SECTION:waka-->
 
 ---
