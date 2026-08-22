@@ -31,7 +31,7 @@ I believe great development starts with great conversations. I’m the kind of d
 
 ## 📈 Coding Metrics (auto-updated daily)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,11 +59,27 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 7 mins (13.66%)
+
+✍️ 649 lines written by AI, 574 lines written by hand (53.07% AI-written)
+
+🔤 796,333 Input Tokens, 83,290 Output Tokens
+
+💵 $17.14 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 26 AI Prompts
+
+GPT                      702 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 53.07% of written lines came from AI
+📚 Verbose Prompter — average 2,528 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 60.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 03:06:32 UTC
+ Last Updated on 22/08/2026 02:57:39 UTC
 <!--END_SECTION:waka-->
 
 ---
