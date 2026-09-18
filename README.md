@@ -35,8 +35,51 @@ I believe great development starts with great conversations. I’m the kind of d
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 17/09/2026 07:16:56 UTC
+```text
+🌞 Morning                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+🌆 Daytime                1228 commits        █████████████░░░░░░░░░░░░   51.57 % 
+🌃 Evening                615 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌙 Night                  216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Tuesday                  526 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Wednesday                445 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Thursday                 444 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Friday                   418 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Saturday                 81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 34 mins (99.9%)
+
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+
+🔤 4,573,530 Input Tokens, 176,325 Output Tokens
+
+💵 $24.34 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 21 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 292 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 18/09/2026 07:10:59 UTC
 <!--END_SECTION:waka-->
 
 ---
