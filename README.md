@@ -59,27 +59,27 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 14 mins (46.74%)
+⏱ AI Coding Time: 2 hrs 22 mins (48.68%)
 
-✍️ 550 lines written by AI, 206 lines written by hand (72.75% AI-written)
+✍️ 550 lines written by AI, 181 lines written by hand (75.24% AI-written)
 
-🔤 2,132,051 Input Tokens, 162,611 Output Tokens
+🔤 1,782,146 Input Tokens, 122,436 Output Tokens
 
-💵 $21.68 Estimated AI Cost This Week
+💵 $16.33 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 79 AI Prompts
+🧠 11 AI Sessions, 70 AI Prompts
 
 GPT                      581 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.75% of written lines came from AI
-📚 Verbose Prompter — average 10,135 characters per prompt
+🤖 AI-Driven — 75.24% of written lines came from AI
+📚 Verbose Prompter — average 11,038 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 41.31% of changed lines were hand-edited
+🚀 High AI Trust — 37.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 07:14:22 UTC
+ Last Updated on 26/09/2026 07:11:33 UTC
 <!--END_SECTION:waka-->
 
 ---
