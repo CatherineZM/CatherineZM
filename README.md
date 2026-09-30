@@ -31,7 +31,7 @@ I believe great development starts with great conversations. I’m the kind of d
 
 ## 📈 Coding Metrics (auto-updated daily)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,27 +59,28 @@ Sunday                   68 commits          █░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (12.17%)
+⏱ AI Coding Time: 39 mins (15.26%)
 
-✍️ 497 lines written by AI, 147 lines written by hand (77.17% AI-written)
+✍️ 31 lines written by AI, 307 lines written by hand (9.17% AI-written)
 
-🔤 436,174 Input Tokens, 19,423 Output Tokens
+🔤 232,941 Input Tokens, 14,994 Output Tokens
 
-💵 $3.25 Estimated AI Cost This Week
+💵 $6.47 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
-GPT                      497 lines           █████████████████████████   100.00 % 
+GPT                      57 lines            █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.17% of written lines came from AI
-📚 Verbose Prompter — average 19,871 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 40.9% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.17% of written lines came from AI
+📚 Verbose Prompter — average 8,184 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 95.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 08:00:44 UTC
+ Last Updated on 30/09/2026 08:08:33 UTC
 <!--END_SECTION:waka-->
 
 ---
