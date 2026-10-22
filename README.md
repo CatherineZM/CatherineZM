@@ -31,7 +31,7 @@ I believe great development starts with great conversations. I’m the kind of d
 
 ## 📈 Coding Metrics (auto-updated daily)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,27 +59,27 @@ Sunday                   68 commits          █░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 7 mins (41.63%)
+⏱ AI Coding Time: 3 hrs 19 mins (39.7%)
 
-✍️ 2,689 lines written by AI, 1,313 lines written by hand (67.19% AI-written)
+✍️ 2,695 lines written by AI, 1,300 lines written by hand (67.46% AI-written)
 
-🔤 1,136,979 Input Tokens, 155,860 Output Tokens
+🔤 942,871 Input Tokens, 134,419 Output Tokens
 
-💵 $7.29 Estimated AI Cost This Week
+💵 $5.42 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 60 AI Prompts
+🧠 7 AI Sessions, 51 AI Prompts
 
-GPT                      2,844 lines         █████████████████████████   100.00 % 
+GPT                      2,838 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.19% of written lines came from AI
-📝 Concise Prompter — average 444 characters per prompt
+🤖 AI-Driven — 67.46% of written lines came from AI
+📝 Concise Prompter — average 440 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 39.95% of changed lines were hand-edited
+🚀 High AI Trust — 39.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 07:11:14 UTC
+ Last Updated on 22/10/2026 07:13:19 UTC
 <!--END_SECTION:waka-->
 
 ---
