@@ -38,17 +38,17 @@ I believe great development starts with great conversations. I’m the kind of d
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                1468 commits        █████████████░░░░░░░░░░░░   53.05 % 
-🌃 Evening                684 commits         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+🌞 Morning                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌆 Daytime                1469 commits        █████████████░░░░░░░░░░░░   53.07 % 
+🌃 Evening                684 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Tuesday                  627 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-Wednesday                535 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Monday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Tuesday                  627 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Wednesday                535 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
 Thursday                 502 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 Friday                   489 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 Saturday                 82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
@@ -59,27 +59,27 @@ Sunday                   68 commits          █░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (36.13%)
+⏱ AI Coding Time: 1 hr 5 mins (33.49%)
 
-✍️ 2,245 lines written by AI, 1,478 lines written by hand (60.3% AI-written)
+✍️ 169 lines written by AI, 266 lines written by hand (38.85% AI-written)
 
-🔤 383,361 Input Tokens, 82,422 Output Tokens
+🔤 222,825 Input Tokens, 29,315 Output Tokens
 
-💵 $2.56 Estimated AI Cost This Week
+💵 $1.42 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 25 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
-GPT                      2,341 lines         █████████████████████████   100.00 % 
+GPT                      250 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.3% of written lines came from AI
-📄 Detailed Prompter — average 950 characters per prompt
+⚖️ Balanced with AI — 38.85% of written lines came from AI
+📝 Concise Prompter — average 438 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 47.73% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 07:32:16 UTC
+ Last Updated on 27/10/2026 07:25:52 UTC
 <!--END_SECTION:waka-->
 
 ---
